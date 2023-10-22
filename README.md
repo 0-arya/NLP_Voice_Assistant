@@ -1,4 +1,3 @@
-# NLP_Voice_Assistant
 # Virtual Assistant for Blind Users
 
 This Python script serves as a virtual assistant designed to assist visually impaired individuals. It incorporates speech recognition and text-to-speech (TTS) capabilities, allowing users to interact with the assistant through voice commands.
@@ -40,6 +39,4 @@ This Python script serves as a virtual assistant designed to assist visually imp
 ## Additional Notes
 - This codebase can be extended into a standalone application to further aid visually impaired individuals. Potential features could include enhanced accessibility options, more advanced natural language processing, and integration with screen reader technologies.
 
----
 
-**Note**: To convert this code into a more user-friendly application for the visually impaired, consider developing a GUI (Graphical User Interface) with accessible features, such as high contrast, large font sizes, and compatibility with screen readers like NVDA or JAWS. Additionally, implement voice command training for personalized responses and functionalities.
